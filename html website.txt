@@ -1,0 +1,35 @@
+<html>
+<head>
+	<b>Antonio Crispino, Intro to Computer Concepts CSIT100_29FA23,9/14/2023</b>
+<head>
+<body>
+<body style="background-color:blue;">
+<p style="font: bold 48px cursive;color:green;text-align:center;"></p>
+<ul>
+<hr/>
+<li><li>
+I have 2 dogs
+<li><li>
+I am a sophmore at MSU
+<li><li>
+I play Ice hockey
+</ul>
+<img src="download"/>
+<hr/>
+<table align="center" boarder="1" width="800">
+
+<tr>
+<td> yankees wins <td>
+<td> yankess losses <td>
+
+<tr>
+<tr>
+
+<td> Mets wins <td>
+<td> Mets losses <td>
+<tr>
+</table>
+
+<a href="https://"montclair.edu">Montclair State University</a>
+<a href="https://"amazon.com"> Amazon </a>
+<a href="https://"mlb.com"> Major League Baseball </a>
